@@ -5,7 +5,7 @@ Congratulations you're on your way to being an amazing programmer, coder, softwa
 Your going to create a pokemon battle text story. I've started it for you and given you some basis, but feel free to go whatever direction you'd like with this!
 Here are some resources to learn more about python:
 https://www.codecademy.com/learn/learn-python
-py4e.com/lessons
+https://www.py4e.com/lessons
 https://www.youtube.com/watch?v=WGJJIrtnfpk
 
 
